@@ -22,7 +22,6 @@ This repository contains a list of my data science related projects and courses 
   - [Logistic Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Logistic_Regression_From_Scratch)
 - Data Analysis 
   - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
-  - [Titantic Exploratory Data Analysis & Survival Prediction](https://github.com/RandomY-2/Titantic_Survival_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
   - [House Price Exploratory Data Analysis & Price Prediction](https://github.com/RandomY-2/House_Price_Prediction)(Regression)
 
