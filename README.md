@@ -1,4 +1,5 @@
 # Data Science Portfolio
+A portfolio containing my data sceince related projects and courses 
 
 ## Welcome!
 
