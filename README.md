@@ -21,6 +21,12 @@ This repository contains a list of my data science related projects and courses 
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
   - [House Price Exploratory Data Analysis & Price Prediction](https://github.com/RandomY-2/House_Price_Prediction)(Regression)
 
+## Skills
+
+ - Programming Languags: Python, R, SQL
+ - Packages: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+ - Others: Tableau, Excel, Java, C++
+
 ## Courses 
 
 - Machine Learning
