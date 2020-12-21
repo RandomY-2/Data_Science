@@ -23,9 +23,8 @@ This repository contains a list of my data science related projects and courses 
 
 ## Courses 
 
-- Mathematics for Machine Learning
 - Machine Learning
-- Deep Learning Specialization 
+- Deep Learning Specialization
 - IBM Data Science Professional Certificate
 - Multivariable Calculus
 - Linear Algebra
