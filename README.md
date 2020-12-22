@@ -5,8 +5,8 @@
 This repository contains a list of my data science related projects and courses completed. I am really interested in fields such as data analytics and machine learning, and I look forward to help addressing more data-related tasks and learn from the process!
 
 ## Highlights
-  - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
+  - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Logistic Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Logistic_Regression_From_Scratch)(Model Implementation)
 
 ## Skills
