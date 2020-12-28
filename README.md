@@ -8,7 +8,8 @@ This repository contains a list of my data science related projects and courses 
   - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
   - [Mall Customer Exploratory Data Analysis & Clustering](https://github.com/RandomY-2/Mall_Customer_Segmentation)Clustering)
-  - [K-Means Clustering Algorithm from Scratch](https://github.com/RandomY-2/K_Means_Clustering_From_Scratch)(Model Implementation/Clustering)
+  - [K-Means Clustering Algorithm from Scratch](https://github.com/RandomY-2/K_Means_Clustering_From_Scratch)(Model Implementation)
+  - [Neural Network Chatbot](https://github.com/RandomY-2/Neural_Net_Chatbot)(Application)
 
 ## Skills
 
@@ -27,6 +28,8 @@ This repository contains a list of my data science related projects and courses 
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
   - [Mall Customer Exploratory Data Analysis & Clustering](https://github.com/RandomY-2/Mall_Customer_Segmentation)Clustering)
   - [House Price Exploratory Data Analysis & Price Prediction](https://github.com/RandomY-2/House_Price_Prediction)(Regression)
+- Application
+  - [Neural Network Chatbot](https://github.com/RandomY-2/Neural_Net_Chatbot)(Application) 
 
 ## Courses 
 
