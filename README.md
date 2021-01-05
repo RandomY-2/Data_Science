@@ -7,8 +7,7 @@ This repository contains a list of my data science related projects and courses 
 ## Highlights
   - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
-  - [Mall Customer Exploratory Data Analysis & Clustering](https://github.com/RandomY-2/Mall_Customer_Segmentation)Clustering)
-  - [K-Means Clustering Algorithm from Scratch](https://github.com/RandomY-2/K_Means_Clustering_From_Scratch)(Model Implementation)
+  - [Mall Customer Exploratory Data Analysis & Clustering](https://github.com/RandomY-2/Mall_Customer_Segmentation)(Clustering)
   - [Neural Network Chatbot](https://github.com/RandomY-2/Neural_Net_Chatbot)(Application)
 
 ## Skills
@@ -23,6 +22,7 @@ This repository contains a list of my data science related projects and courses 
   - [Linear Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Linear_Regression_From_Scratch)
   - [Logistic Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Logistic_Regression_From_Scratch)
   - [K-Means Clustering Algorithm from Scratch](https://github.com/RandomY-2/K_Means_Clustering_From_Scratch)
+  - [K-Nearest Neighbor Algorithm from Scratch](https://github.com/RandomY-2/K-Nearest-Neighbor-from-scratch)
 - Data Analysis 
   - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
