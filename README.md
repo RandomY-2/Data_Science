@@ -30,6 +30,7 @@ This repository contains a list of my data science related projects and courses 
   - [House Price Exploratory Data Analysis & Price Prediction](https://github.com/RandomY-2/House_Price_Prediction)(Regression)
 - Application
   - [Neural Network Chatbot](https://github.com/RandomY-2/Neural_Net_Chatbot)(Application) 
+  - [Movie Recommender System](https://github.com/RandomY-2/Movie_Recommender_Engine)
 
 ## Courses 
 
