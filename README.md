@@ -19,11 +19,12 @@ This repository contains a list of my data science related projects and courses 
 ## All Projects
 
 - Model Implementation
-  - [Linear Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Linear_Regression_From_Scratch)
-  - [Logistic Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/Logistic_Regression_From_Scratch)
-  - [K-Means Clustering Algorithm from Scratch](https://github.com/RandomY-2/K_Means_Clustering_From_Scratch)
-  - [K-Nearest Neighbor Algorithm from Scratch](https://github.com/RandomY-2/K-Nearest-Neighbor-from-scratch)
-  - [Decision Tree Classifier from Sratch](https://github.com/RandomY-2/Decision_Tree_from_Scratch)
+  - [Linear Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Simple_Linear_Regression)
+  - [Logistic Regression with Gradient Descent from Scratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Logistic_Regression)
+  - [K-Means Clustering from Scratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/K-Means)
+  - [K-Nearest Neighbor Classifier from Scratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/K-Nearest-Neighbor)
+  - [Decision Tree Classifier from Sratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Decision_Tree)
+  - [Random Forest Classifier from Sratch](https://github.com/RandomY-2/ML_Models_From_Scratch/tree/main/Random_Forest)
 - Data Analysis 
   - [Hotel Exploratory Data Analysis & Reservation Cancellation Prediction](https://github.com/RandomY-2/Hotel_Reservation_Prediction)(Classification)
   - [Video Sales Exploratory Data Analysis & Sales Prediction](https://github.com/RandomY-2/Video_Game_Regressional_Analysis)(Regression)
